@@ -1,0 +1,45 @@
+body {
+    margin-left: 10%; margin-right: 10%;
+    background-color: white;
+    }
+
+
+h1 {
+    text-align: center; text-decoration-color: floralwhite; margin-top: 10px; margin-bottom: 50px; 
+    font-size: 75px;
+    font-weight: 100;
+    font-family: inherit;
+    color:darkorange;
+    font-weight: 200;
+    background-color: whitesmoke;
+    }
+
+h5 {
+    margin-top: 3px; margin-bottom: 3px;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 100;
+    text-decoration-line: underline; 
+    text-decoration-color: black;
+    }   
+
+h2 {
+    margin-top: 50px;
+    background-color: aliceblue;
+    background-size: cover
+    }
+
+img {
+    margin-top: 70px
+    }
+
+h3 {
+    margin-top: 50px;
+    margin-bottom: 70px;
+    font-size: 50px;
+    align-content: center
+    }
+
+h6 {
+    font-size:20px;
+    color:orangered}
