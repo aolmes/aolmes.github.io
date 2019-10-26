@@ -1,0 +1,178 @@
+body {
+        
+        background-color: #ffcd87;
+        margin: 0;
+        padding: 0;
+    font-family:inherit;
+    font-size: 20px;
+        /*background-image: url(background.jpg);
+        background-repeat:no-repeat;
+        background-position: center;*/
+}
+
+#wrap{
+    width:100%;
+    margin: 0 auto;
+    /*0 refers to no margin at top or bottom*/
+}
+
+header img {
+    width:75%;
+    margin:0 auto;
+    padding-top:
+}
+
+header{ 
+	background-image: radial-gradient(circle, #ffcd87,#ff8e61 );
+    text-align: center;
+    background-image: url(background.jpg);
+        background-repeat:no-repeat;
+        background-position: center;
+    
+}
+
+h1 {
+    font-size:40px;
+}
+h3 {
+    text-align: center;
+    font-size:70px;
+    font-family: 'Russo One', sans-serif;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav {
+    background-color: #86f08f;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Bangers', bold;
+}
+
+nav a{
+    color:green;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    padding:5px 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+nav a:hover {
+    color: goldenrod;
+    background-color: whitesmoke;
+    
+}
+
+nav li {
+        display: inline;
+        padding: 10px;
+        /*padding 20px*/
+}
+
+nav ul {
+        padding: 0;
+        margin 0;
+}
+
+section {
+    padding: 10px;
+    border-color: orange;
+    background-color:white;
+    overflow:auto;   
+}
+
+.szns {
+    width:825px;
+    height: 465px;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+
+
+.music {
+    width:30%;
+    float:right;
+    position: relative;
+    padding:5px;
+    margin-bottom: 60px;
+}
+
+.air {
+    width: 60%;
+    margin-bottom: 15px;
+}
+
+.sunset {
+    width: 65%;
+    margin-bottom: 15px;
+}
+
+.lake {
+   width: 75%;
+    margin-bottom: 15px;
+}
+
+.apples {
+    width: 50%;
+    margin-bottom: 15px;
+}
+
+.yellowtree {
+    width:40%;
+    float:right;
+    position: relative;
+    padding:5px;
+    margin-bottom: 75px;
+}
+
+.ty {
+    width:40%;
+    float:right;
+    position: relative;
+    padding:5px;
+    margin-bottom: 75px;
+}
+
+.beach {
+    width:40%;
+    float:right;
+    position: relative;
+    padding:5px;
+    margin-bottom: 75px;
+}
+
+.butterfly {
+    width:40%;
+    float:right;
+    position: relative;
+    padding:5px;
+    margin-bottom: 75px;
+}
+    
+.button {
+    
+    background-color:red;
+    opacity: 80%;
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius:8px;
+    margin:30px 0;
+     
+    }    
+
+a.button:hover {
+        background-color: lightpink;
+    }
+    
+}
+footer {
+        background-color: white;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        font-size: 10px;
+}
