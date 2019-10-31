@@ -1,0 +1,138 @@
+body {
+        
+        background-color: white;
+        margin: 0;
+        padding: 0;
+    font-family:inherit;
+    font-size: 20px;
+        /*background-image: url(background.jpg);
+        background-repeat:no-repeat;
+        background-position: center;*/
+}
+
+#wrap{
+    width:100%;
+    margin: 0 auto;
+    /*0 refers to no margin at top or bottom*/
+}
+
+header img {
+    width:75%;
+    margin:0 auto;
+    padding-top:
+}
+
+header{ 
+	background-image: radial-gradient(circle, #ffcd87,#ff8e61 );
+    text-align: center;
+    background-image: url(background.jpg);
+        background-repeat:no-repeat;
+        background-position: center;
+    
+}
+
+h1 {
+    font-size:40px;
+}
+h3 {
+    background-image: linear-gradient(#ff7e57,#ffaf96);
+    text-align: center;
+    font-size:70px;
+    font-family: 'Russo One', sans-serif;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav {
+    background-color: skyblue;
+    background-image: linear-gradient(#4290f5, #a8ceff);
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Bangers', bold;
+}
+
+nav a{
+    color:white;
+    font-size: 35px;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    padding:5px 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+nav a:hover {
+    color: goldenrod;
+    background-color: whitesmoke;
+    
+}
+
+nav li {
+        display: inline;
+        padding: 10px;
+        /*padding 20px*/
+}
+
+nav ul {
+        padding: 0;
+        margin 0;
+}
+
+section {
+    padding: 10px;
+    border-color: orange;
+    background-color:white;
+    overflow:auto;   
+}
+
+.link {
+    color: white;
+    background-color: red;
+    padding: 5px;
+    background-image: linear-gradient(#fc3232, #ff8787); 
+}
+
+
+.apples {
+    width:40%;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+
+.logo { 
+    width:40%;
+    height: 2%;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+} 
+
+.jackson {
+    width:25%;
+    float:right;
+    position: relative;
+    padding:5px;
+    margin-bottom: 75px;
+}
+
+.button {
+    
+    background-color:red;
+    opacity: 80%;
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius:8px;
+    margin:30px 0;
+     
+    }    
+
+a.button:hover {
+        background-color: lightpink;
+    }
+    
+footer {
+        font-size: 15px;
+        background-image: linear-gradient(#ff7e57,#ffaf96);
+}
